@@ -31,20 +31,20 @@ Ensure you have **Python 3+** installed.
 
 ### 🔹 Option 2: Use a Standalone Executable (No Python Required)
 For **Windows**:
-1. Download the latest `stardew-swap.exe` from [Releases](https://github.com/your-username/stardew-host-swapper/releases).
+1. Download the latest `swap.exe` from [Releases](https://github.com/your-username/stardew-host-swapper/releases).
 2. Open a terminal (`cmd.exe` or PowerShell) and navigate to the file location.
 3. Run:
    ```sh
-   stardew-swap.exe <save_file_path> <current_host_name> <new_host_name>
+   swap.exe <save_file_path> <current_host_name> <new_host_name>
    ```
 
 For **macOS**:
-1. Download `stardew-swap` from [Releases](https://github.com/your-username/stardew-host-swapper/releases).
+1. Download `swap` from [Releases](https://github.com/your-username/stardew-host-swapper/releases).
 2. Open a terminal and navigate to the file location.
 3. Run:
    ```sh
    chmod +x stardew-swap  # Give execute permissions (only needed once)
-   ./stardew-swap <save_file_path> <current_host_name> <new_host_name>
+   ./swap <save_file_path> <current_host_name> <new_host_name>
    ```
 
 ---
